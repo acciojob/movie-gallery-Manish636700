@@ -3,20 +3,6 @@
 	display:flex;
 	flex-direction:column;
 }
-.col-sm-1{
-	display:flex;
-	flex-direction:row;
-}
-.col-sm-2{
-	display:flex;
-	flex-direction:row;
-}
-
-.col-sm-4{
-	display:flex;
-	flex-direction:row;
-}
-
 .col{
 	display:flex;
 	flex-direction:row;
