@@ -17,7 +17,7 @@
 	flex-direction:row;
 }
 
-.col-sm-12{
+.col{
 	display:flex;
 	flex-direction:row;
 }
